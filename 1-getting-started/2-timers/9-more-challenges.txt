@@ -13,8 +13,6 @@ Challenge 1:
 
   Constraints: You can only use const (no let or var)
 
-Challenge 2:
-
   Just like Challenge 1 but this time with repeated delay values.
   Print Hello World 5 times with a delay of 100 ms.
   Then Print it again 5 more times with a delay of 200 ms.
