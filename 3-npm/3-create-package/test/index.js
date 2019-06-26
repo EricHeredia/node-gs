@@ -1,11 +1,3 @@
-const print = require('frame-print');
+const print = require('ericheredia-frame-print');
 
 print('Hello NPM!');
-
-/*
-Expected Output:
-
-**********
-Hello NPM!
-**********
-*/
